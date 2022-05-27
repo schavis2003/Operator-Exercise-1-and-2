@@ -1,0 +1,15 @@
+C:\Users\19102\OneDrive\Desktop\repos\dotNetConsole\bin\Debug\net6.0\dotNetConsole.exe
+C:\Users\19102\OneDrive\Desktop\repos\dotNetConsole\bin\Debug\net6.0\dotNetConsole.deps.json
+C:\Users\19102\OneDrive\Desktop\repos\dotNetConsole\bin\Debug\net6.0\dotNetConsole.runtimeconfig.json
+C:\Users\19102\OneDrive\Desktop\repos\dotNetConsole\bin\Debug\net6.0\dotNetConsole.dll
+C:\Users\19102\OneDrive\Desktop\repos\dotNetConsole\bin\Debug\net6.0\dotNetConsole.pdb
+C:\Users\19102\OneDrive\Desktop\repos\dotNetConsole\obj\Debug\net6.0\dotNetConsole.csproj.AssemblyReference.cache
+C:\Users\19102\OneDrive\Desktop\repos\dotNetConsole\obj\Debug\net6.0\dotNetConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19102\OneDrive\Desktop\repos\dotNetConsole\obj\Debug\net6.0\dotNetConsole.AssemblyInfoInputs.cache
+C:\Users\19102\OneDrive\Desktop\repos\dotNetConsole\obj\Debug\net6.0\dotNetConsole.AssemblyInfo.cs
+C:\Users\19102\OneDrive\Desktop\repos\dotNetConsole\obj\Debug\net6.0\dotNetConsole.csproj.CoreCompileInputs.cache
+C:\Users\19102\OneDrive\Desktop\repos\dotNetConsole\obj\Debug\net6.0\dotNetConsole.dll
+C:\Users\19102\OneDrive\Desktop\repos\dotNetConsole\obj\Debug\net6.0\refint\dotNetConsole.dll
+C:\Users\19102\OneDrive\Desktop\repos\dotNetConsole\obj\Debug\net6.0\dotNetConsole.pdb
+C:\Users\19102\OneDrive\Desktop\repos\dotNetConsole\obj\Debug\net6.0\dotNetConsole.genruntimeconfig.cache
+C:\Users\19102\OneDrive\Desktop\repos\dotNetConsole\obj\Debug\net6.0\ref\dotNetConsole.dll
