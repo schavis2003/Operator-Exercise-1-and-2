@@ -43,16 +43,16 @@ namespace Iteration
         static void Main(string[] args)
         {
             //The “for” loop executes a statement or a block of statements while a specified Boolean expression evaluates to true.
-            //Use a for loop if you need to execute some code a specific number of times.
+            //Use a "for loop" if you need to execute some code a specific number of times.
 
-            //for (int 0 = 1; i <= 100; i +=10)
-            //{
-            //    Console.WriteLine(i);
-            //}
-
-            for (int i = 100; i >= 0; i--)
-            
+            //Exercise 1
+            //for (int i = 1; i <= 15; i ++)
+            {
                 Console.WriteLine(i);
+            }
+
+            //Exercise 2 
+
 
              
             //A “foreach” loop executes a statement or a block of statements for each element in an instance of the type that implements the System.
