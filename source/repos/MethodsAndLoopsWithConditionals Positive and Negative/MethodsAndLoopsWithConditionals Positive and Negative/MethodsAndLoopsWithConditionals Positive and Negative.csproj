@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>MethodsAndLoopsWithConditionals_Positive_and_Negative</RootNamespace>
+  </PropertyGroup>
+
+</Project>
