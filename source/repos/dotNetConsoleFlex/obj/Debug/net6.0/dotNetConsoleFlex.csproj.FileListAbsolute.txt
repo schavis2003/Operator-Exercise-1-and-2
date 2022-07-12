@@ -1,0 +1,15 @@
+C:\Users\19102\source\repos\dotNetConsoleFlex\bin\Debug\net6.0\dotNetConsoleFlex.exe
+C:\Users\19102\source\repos\dotNetConsoleFlex\bin\Debug\net6.0\dotNetConsoleFlex.deps.json
+C:\Users\19102\source\repos\dotNetConsoleFlex\bin\Debug\net6.0\dotNetConsoleFlex.runtimeconfig.json
+C:\Users\19102\source\repos\dotNetConsoleFlex\bin\Debug\net6.0\dotNetConsoleFlex.dll
+C:\Users\19102\source\repos\dotNetConsoleFlex\bin\Debug\net6.0\dotNetConsoleFlex.pdb
+C:\Users\19102\source\repos\dotNetConsoleFlex\obj\Debug\net6.0\dotNetConsoleFlex.csproj.AssemblyReference.cache
+C:\Users\19102\source\repos\dotNetConsoleFlex\obj\Debug\net6.0\dotNetConsoleFlex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19102\source\repos\dotNetConsoleFlex\obj\Debug\net6.0\dotNetConsoleFlex.AssemblyInfoInputs.cache
+C:\Users\19102\source\repos\dotNetConsoleFlex\obj\Debug\net6.0\dotNetConsoleFlex.AssemblyInfo.cs
+C:\Users\19102\source\repos\dotNetConsoleFlex\obj\Debug\net6.0\dotNetConsoleFlex.csproj.CoreCompileInputs.cache
+C:\Users\19102\source\repos\dotNetConsoleFlex\obj\Debug\net6.0\dotNetConsoleFlex.dll
+C:\Users\19102\source\repos\dotNetConsoleFlex\obj\Debug\net6.0\refint\dotNetConsoleFlex.dll
+C:\Users\19102\source\repos\dotNetConsoleFlex\obj\Debug\net6.0\dotNetConsoleFlex.pdb
+C:\Users\19102\source\repos\dotNetConsoleFlex\obj\Debug\net6.0\dotNetConsoleFlex.genruntimeconfig.cache
+C:\Users\19102\source\repos\dotNetConsoleFlex\obj\Debug\net6.0\ref\dotNetConsoleFlex.dll
